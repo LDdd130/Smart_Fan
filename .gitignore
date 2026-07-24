@@ -1,0 +1,10 @@
+build/
+.venv/
+graphify-out/
+.agents/
+.codex/
+*.o
+*.elf
+*.hex
+*.eep
+*.map

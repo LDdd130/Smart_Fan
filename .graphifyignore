@@ -1,0 +1,16 @@
+# 가상 환경 및 도구 (필수 제외)
+.venv/
+.agents/
+.claude/
+.codex/
+
+# 빌드 결과물 및 임시 파일 (그래프 용량 최적화)
+build/
+graphify-out/
+tools/
+*.hex
+*.elf
+*.o
+
+# IDE 설정
+.vscode/

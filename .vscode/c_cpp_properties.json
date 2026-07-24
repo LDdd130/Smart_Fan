@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "name": "Ubuntu AVR",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/opt/microchip/avr-gcc/avr/include",
+        "/opt/microchip/avr-gcc/avr/include/avr"
+      ],
+      "defines": [
+        "F_CPU=16000000UL",
+        "__AVR_ATmega128A__"
+      ],
+      "compilerPath": "/opt/microchip/avr-gcc/bin/avr-gcc",
+      "cStandard": "c11",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}
