@@ -11,13 +11,12 @@
   <img src="https://img.shields.io/badge/Toolchain-avr--gcc-3C9C35?style=flat-square" alt="avr-gcc">
 </p>
 
-<!-- TODO: assets/ 폴더에 아래 이미지를 추가한 뒤 주석을 해제하세요.
+<!-- TODO: assets/ 폴더에 아래 이미지를 추가한 뒤 주석을 해제하세요. -->
 <p>
-  <img src="./assets/smart_fan.png" width="58%" alt="Smart Fan">
+  <img src="./Smart_Fan_working/assets/image.png" width="58%" alt="Smart Fan">
   &nbsp;&nbsp;
-  <img src="./assets/control_panel.png" width="35%" alt="Control Panel">
+  <!-- <img src="./assets/control_panel.png" width="35%" alt="Control Panel"> -->
 </p>
--->
 
 **온습도 센서로 팬 세기를 자동 조절하고, 조이스틱으로 바람 방향을 2축 제어하며, UART로 입력한 시간만큼 동작하는 ATmega128A 기반 스마트 선풍기입니다.**
 
