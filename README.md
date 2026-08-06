@@ -20,7 +20,12 @@
 
 **온습도 센서로 팬 세기를 자동 조절하고, 조이스틱으로 바람 방향을 2축 제어하며, UART로 입력한 시간만큼 동작하는 ATmega128A 기반 스마트 선풍기입니다.**
 
-https://github.com/LDdd130/Smart_Fan/issues/1#issue-5077045612
+### 🎥 시연 영상
+
+
+https://github.com/user-attachments/assets/e08266f3-6a21-4383-aa2c-3a15950c16f7
+
+
 
 </div>
 
