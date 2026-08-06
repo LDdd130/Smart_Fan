@@ -13,7 +13,7 @@
 
 <!-- TODO: assets/ 폴더에 아래 이미지를 추가한 뒤 주석을 해제하세요. -->
 <p>
-  <img src="./Smart_Fan_working/asset/image.png" height="200" alt="Smart Fan">
+  <img src="./Smart_Fan_working/asset/image.png" height="250" alt="Smart Fan">
   &nbsp;&nbsp;
   <!-- <img src="./assets/control_panel.png" width="35%" alt="Control Panel"> -->
 </p>
