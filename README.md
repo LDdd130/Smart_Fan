@@ -23,7 +23,7 @@
 ### 🎥 시연 영상
 
 
-<video src="https://github.com/user-attachments/assets/e08266f3-6a21-4383-aa2c-3a15950c16f7" controls width="480"></video>
+https://github.com/user-attachments/assets/e08266f3-6a21-4383-aa2c-3a15950c16f7
 
 
 
